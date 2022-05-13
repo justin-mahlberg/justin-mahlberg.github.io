@@ -1,5 +1,6 @@
 name: "justin-mahlberg"
 navbar:
+  title: "Justin Mahlberg"
   left:
     - text: "Home"
       href: index.html
