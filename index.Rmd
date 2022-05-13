@@ -1,8 +1,0 @@
----
-title: "Justin Mahlberg"
----
-Under construction...
-<p>
-...it might take awhile.
-
-<img src="files/IMG_8239.jpg" style="width:50%">
