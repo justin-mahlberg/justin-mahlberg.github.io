@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/texture-background.png');
+    background: lightblue url("images/texture-background.png") no-repeat fixed center;
     background-size:cover;
     position:relative;
 }
